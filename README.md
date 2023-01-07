@@ -1,16 +1,17 @@
-### Hi there 👋
+ 
 
-<!--
-**batistaluccas/batistaluccas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center>
 
-Here are some ideas to get you started:
+### Olá! Eu sou o Lucas Lima 👋
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Lucas Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=batistaluccas&show_icons=true&theme=radical)
+<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batistaluccas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br><br><br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whi)](https://www.linkedin.com/in/lucas-lima-batista/)
+</div>
+
+
+
+
