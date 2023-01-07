@@ -1,8 +1,10 @@
  
 
-<div align=center>
+<div align=center >
 
 ### Olá! Eu sou o Lucas Lima 👋
+ 
+ <p > Aspirante a desenvolvedor WEB</p>
 <br>
 
 ![Lucas Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=batistaluccas&show_icons=true&theme=radical)
