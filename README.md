@@ -4,7 +4,7 @@
 
 ### Olá! Eu sou o Lucas Lima 👋
  
- <p > Aspirante a desenvolvedor WEB</p>
+ 
 <br>
 
 
